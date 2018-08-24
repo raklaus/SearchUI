@@ -1,0 +1,24 @@
+body {
+  margin: auto;
+  padding: 20px;
+  max-width: 500px;
+  background-color: #e6e8ed;
+}
+input {
+  line-height: 2;
+  font-size: 16px;
+  /* display: block; */
+  margin: auto;
+  background-color: aliceblue;
+}
+li {
+  line-height: 2;
+  padding: 5px 10px;
+  border: 1px solid;
+  list-style: none;
+  margin-bottom: -1px;
+  background-color: aliceblue;
+}
+ul {
+  padding: 5px;
+}
